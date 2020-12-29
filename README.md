@@ -39,4 +39,4 @@ rules and regulations.
 
 ## Detailed Report 
 
-For detailed report refer <>
+For detailed report refer <https://github.com/varshil1/Organ-Transplantation-and-Management-Network-DBMS/blob/master/DBMS_PROJECT_REPORT-ORGAN_TRANSPLANTATION_NETWORK_SYSTEM-AU1841125_YASH%20R%20PATEL-AU1841095_VARSHIL%20SHAH-AU1841099_MEET%20KADIYA.pdf>
